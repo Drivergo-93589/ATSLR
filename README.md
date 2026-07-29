@@ -1,1 +1,1 @@
-# PSLR: A Semi-parametric Functional Classification Model via Path Signature Logistic Regression
+# ATSLR: An Adaptively Truncated Signature-based Logistic Regression Model for Semi-parametric Functional Classification
