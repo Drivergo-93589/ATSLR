@@ -8,7 +8,7 @@ from fun_helpers.tools import get_sigX, get_sigX_timeMis, data_normal
 
 
 class PSLR(object):
-    """Path-Signature based Logistic Regression Model
+    """Adaptively Truncated Signature-based Logistic Regression Model
 
     A logistic regression model that combines path-signature features from time-augmented
     paths with scalar covariates, regularized using L1 penalty.
